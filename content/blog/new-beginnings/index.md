@@ -1,108 +1,74 @@
 ---
-title: New Beginnings
-date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+title: From College to Tech and Consulting
+date: "2020-12-02T06:03:30.169Z"
+description: Life after college as a Computer Science student.
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+On June 2019, I graduated with a Computer Science degree from UC Santa Cruz.
+At the time, I did not have a job lined up. I went back home and started applying to jobs.
 
-## On deer horse aboard tritely yikes and much
+## Working while job hunting
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+Within a couple weeks after I graduated, I started working in construction.
+On my first day, I told my boss that I had just graduated and I was looking for
+a job in tech. He was okay with it, and simply requested that I
+give him a notice of when I do find a job in my field.
 
-- This however showed weasel
-- Well uncritical so misled
-  - this is very interesting
-- Goodness much until that fluid owl
+In construction, I usually worked 8-10 hours a day.
+Once I was off work, I would spend my evenings doing coding challenges,
+interview practice, and applying to software engineering jobs.
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rhetoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
+I did this for a few months, till an opportunity came up for me.
+60+ applications later, and with the help of friends and mentors, 
+I got an interview at two companies.
 
-### Overlaid the jeepers uselessly much excluding
+### Accenture
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
+A friend, who I look up to, put me in contact with her connection at 
+[Accenture](http://accenture.com). This connection at Accenture, was someone who I had once met
+at a [SHPE](https://www.shpe.org/) event while I was in college. But I had not been in contact till my
+friend reconnected me with me.
+ When I spoke to him, I told him about
+my story and interests. I wanted him to see that I could be a good candidate as a referral. 
+He then I agreed to reffer me to Accenture.
 
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
+Both these two friends gave me tips on the interviews and they were a big support along the way.
+But in order to get my foot in the door, I needed to put in the work myself.
 
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
+For Accenture, I had 2 calls with recruiters, and 2 calls with Managers.
+I spent hours a day prepping for each interview.
+The first one was less formal and more about getting to know me.
+The second, was about my career interests and how I see myself fitting in at Accenture.
+For my third interview, I practiced the [STAR Method](https://www.indeed.com/hire/c/info/star-interview-format?aceid=&gclid=Cj0KCQiAk53-BRD0ARIsAJuNhpvDgIFRH5Yjo65ZW91BZkn5X5RAhOV7tPAJk8IBpIzF1yC6AjNJmZoaAhSdEALw_wcB).
+The final interview, was a [case interview](https://biginterview.com/case-interview-questions/).
 
-### According a funnily until pre-set or arrogant well cheerful
+Case interviews are done by consulting companies. It is pretty much a way to see how you would
+handle a business scenario for the client. There is no right or wrong answer,
+but you should employ problem solving and customer service. What I mean by this is, show the interviewer
+that you are able to analyze the situation, come up with some suggestions for the client, and communicate your ideas.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+To study for this interview I read articles, watched [youtube videos](https://www.youtube.com/user/caseinterview), and practiced by myself and with others.
 
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
 
-When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rhetoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.
+### Apple
 
-> The copy warned the Little Blind Text, that where it came from it would have
-> been rewritten a thousand times and everything that was left from its origin
-> would be the word "and" and the Little Blind Text should turn around and
-> return to its own, safe country.
+I applied online to
+[Apple's Orchard program](https://9to5mac.com/2016/10/05/apple-orchard-program-marketing-talent/).
+When I applied here, I did not think I was going to 
+think I would get a callback.
+But this is a good example of where you should take your shot, even if you aren't sure it will go in.
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
+With Apple, I made it to the final round of interviews, where they invited me to Cuppertino. The position was to join the marketing team as a front end developer.
+That day, I had 4 interviews back-to-back. Although I did not get the offer, it was a good experience.
 
-#### Silent delightfully including because before one up barring chameleon
+> When I think of my time in construction, I wouldn't want it be any other way. I see every job I've had, technical or not, white or blue collar, as an opportunity to learn.
 
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.
+### Summary
 
-Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
+When applying to a company, do your homework, and make sure that its a place where you'd like to work.
+In my case, Accenture was where I wanted to be because I am passionate about using my skills to help clients.
+Here, I am able to combine my interest in tech with building relationships with clients and helping their business grow.
+That is the same reason why I do my web consulting on the side.
 
-##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
-
-She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rhetoric question ran over her cheek, then she continued her way. On her way she
-met a copy.
-
-###### Slapped cozy a that lightheartedly and far
-
-The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word "and" and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.
+For anyone that I have reffered to Accenture, I always talk to them about what we do.
+This is not a typical software company, we doing consulting and have clients in many different industries.
