@@ -9,7 +9,7 @@ module.exports = {
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
       twitter: `arturo_creates`,
-      instagram: 'test'
+      instagram: 'arturo_creates'
     },
   },
   plugins: [
@@ -67,7 +67,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/arturo-11.png`,
+        icon: `content/assets/favicon.svg`,
       },
     },
     `gatsby-plugin-react-helmet`,

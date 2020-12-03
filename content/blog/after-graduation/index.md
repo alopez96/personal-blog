@@ -11,7 +11,7 @@ I wouldn't consider my path to be traditional one, but I did learn somethings al
 ## Working while job hunting
 
 Within a couple weeks after graduation, I started working in construction. Before I started working, my boss knew that I was a recent grad and was looking for a job in tech. He was okay with it, and simply asked me to
-give him a notice when I'm ready to move on.
+give him a notice when I was ready to move on.
 
 In construction, I usually worked 8-10 hours a day.
 Once I was off work, I would spend my evenings doing coding challenges,
