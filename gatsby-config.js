@@ -3,12 +3,13 @@ module.exports = {
     title: `My Blog`,
     author: {
       name: `Arturo Lopez`,
-      summary: `Latino Software Developer, who uses tech to brind ideas to life.`,
+      summary: `who is a Software Developer and Consultant.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
       twitter: `arturo_creates`,
+      instagram: 'test'
     },
   },
   plugins: [
@@ -66,7 +67,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/arturo-11.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
