@@ -23,25 +23,25 @@ I got an interview at Accenture.
 
 ### Accenture
 
-My introduction to <a href="http://accenture.com/" target="_blank">Accenture</a>
+My introduction to <a href="http://accenture.com/" target="_blank" rel="noreferrer">Accenture</a>
  was through a refferal from a friend. I first spoke to him about my career goals, and he told me about his experience at Accenture and what they do. I could see myself growing at Accenture, and I liked the work culture he described. It was also a good match for me because I enjoy working people and tech. In consulting, I'm able to do both.
 
-During my interview process with Accenture, a couple of my friends help me with inteview tips and advice. But in order to get my foot in the door, I needed to put in the work myself.
+Shoutout Bryan and Zoraida who helped me along the way. But in order to get my foot in the door, I needed to put in the work myself.
 
 I had calls with recruiters first, then managers.
 I spent hours a day prepping for each interview.
 The first one was less formal and more about getting to know me.
 The second, was about my career interests and how I see myself fitting in at Accenture.
-For my third interview, I practiced the <a href="https://www.indeed.com/hire/c/info/star-interview-format?aceid=&gclid=Cj0KCQiAk53-BRD0ARIsAJuNhpvDgIFRH5Yjo65ZW91BZkn5X5RAhOV7tPAJk8IBpIzF1yC6AjNJmZoaAhSdEALw_wcB" target="_blank">STAR Method</a>.
+For my third interview, I practiced the <a href="https://www.indeed.com/hire/c/info/star-interview-format?aceid=&gclid=Cj0KCQiAk53-BRD0ARIsAJuNhpvDgIFRH5Yjo65ZW91BZkn5X5RAhOV7tPAJk8IBpIzF1yC6AjNJmZoaAhSdEALw_wcB" target="_blank">STAR Method</a> for behavioral interviews.
 The fourth and final interview was a <a href='https://biginterview.com/case-interview-questions/' target='_blank'>Case interview</a>.
 
-Consulting companies, like Accenture, do case interviews. They do this as a way to see how you would
-handle a business scenario for a client. There is no right or wrong answer,
+Consulting companies, like Accenture, do case interviews as a way to see how you would
+handle a business scenario for a client. There is no right or wrong answer with these,
 but you should employ problem solving and customer service. What I mean by this is, show the interviewer
 that you are able to analyze the situation, come up with some suggestions for the client, and communicate your ideas.
 To study for this interview I read articles, watched <a href='https://www.youtube.com/user/caseinterview' target='_blank'>youtube videos</a>, and practiced by myself and with others.
 
-There a couple other things that helped me during the interview process. Because I was applying to a technical role, I talked about my short internship with a software startup. I also have experience working in restuarants and retail stores where I learned about the importance of customer service. Despite it being a different industry, we still strive to deliver the most value to the customer/client and making them happy.
+There a couple other things that helped me during the interview process. Because I was applying to a technical role, I talked about my internship with a small software startup. I also have experience working in restuarants and retail stores where I learned about the importance of customer service. Despite it being a different industry, we still strive to deliver the most value to the customer/client.
 
 > When I think of my time in construction and hospitality, I wouldn't want it be any other way. I see every job I've had, technical or not, white or blue collar, as an opportunity to learn.
 

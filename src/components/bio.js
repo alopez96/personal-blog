@@ -8,13 +8,14 @@
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
+import selfie from '../../content/assets/profile-pic.jpg'
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
     query BioQuery {
       avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
         childImageSharp {
-          fixed(width: 50, height: 50, quality: 95) {
+          fixed(width: 200, height: 200, quality: 95) {
             ...GatsbyImageSharpFixed
           }
         }
@@ -42,14 +43,9 @@ const Bio = () => {
   return (
     <div className="bio">
       {avatar && (
-        <Image
-          fixed={avatar}
-          alt={author?.name || ``}
-          className="bio-avatar"
-          imgStyle={{
-            borderRadius: `50%`,
-          }}
-        />
+        <img src={selfie}
+        className="bio-avatar"
+        alt={author?.name || ``}/>
       )}
       {author?.name && (
         <p>
