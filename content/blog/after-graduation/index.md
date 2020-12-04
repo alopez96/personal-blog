@@ -39,7 +39,7 @@ but you should demonstrate problem solving and communication skills. What I mean
 that you are able to analyze the situation, come up with some suggestions for the client, and communicate your ideas.
 To study for this interview I read articles, watched <a href='https://www.youtube.com/user/caseinterview' target='_blank'>youtube videos</a>, and practiced by myself and with others.
 
-There a couple other things that helped me during the interview process. Because I was applying to a technical role, I talked about my internship with a small software startup. I also used class projects to talk about team work and software development. Finally, I leaned on my experience working in restuarants and retail stores to talk about the importance of customer service. Despite it being a different industry, we still strive to deliver the most value to the customer/client.
+There a couple other things that helped me during the interview process. Because I was applying to a technical role, I talked about my internship with a small software startup. I also used class projects to talk about team work and software development. Having worked in customer service, I learned of the importance of delivering the most value to the customer/client. This is important in many places, especially in consulting.
 
 > When I think of my time in construction and hospitality, I wouldn't want it be any other way. I see every job I've had, technical or not, white or blue collar, as an opportunity to learn.
 
