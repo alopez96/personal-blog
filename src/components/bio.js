@@ -57,7 +57,8 @@ const Bio = () => {
           Twitter
           </a>  */}
           <br></br>
-          <a href={`https://instagram.com/${social?.instagram || ``}`}>
+          <a href={`https://instagram.com/${social?.instagram || ``}`}
+          target='_blank'>
             Instagram
           </a>
           <br></br>
