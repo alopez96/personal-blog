@@ -1,7 +1,7 @@
 ---
-title: From College to Tech & Consulting
+title: From College to Consulting and Software Development
 date: "2020-12-04T06:07:30.169Z"
-description: I graduated from UC Santa Cruz with a Computer Science degree and now work in consulting and tech.
+description: Graduated from UC Santa Cruz with a Computer Science degree and I now work in consulting as a software developer.
 ---
 
 On June 2019, I graduated with a Computer Science degree from UC Santa Cruz.
@@ -34,8 +34,8 @@ My third interview was a behavioral one, and I practiced the <a href="https://ww
 The fourth was a <a href='https://biginterview.com/case-interview-questions/' target='_blank'>Case interview</a>. The final was a closing interview, which was a less formal in person meeting with a manager.
 
 Consulting companies, like Accenture, do case interviews as a way to see how you would
-handle a business scenario for a client. There is no right or wrong answer with these,
-but you should demonstrate problem solving and communication skills. What I mean by this is, show the interviewer
+handle a business scenario for a client. When doing this type of interview,
+you should demonstrate problem solving and communication skills. What I mean by this is, show the interviewer
 that you are able to analyze the situation, come up with some suggestions for the client, and communicate your ideas.
 To study for this interview I read articles, watched <a href='https://www.youtube.com/user/caseinterview' target='_blank'>youtube videos</a>, and practiced by myself and with others.
 
