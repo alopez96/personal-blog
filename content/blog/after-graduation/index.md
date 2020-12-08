@@ -45,4 +45,4 @@ There a couple other things that helped me during the interview process. Because
 
 ### Connect
 
-If you have questions about my experience, or just want to connect, follow me on <a href='https://www.instagram.com/arturo_creates/' target='_blank'>Instagram</a>, <a href='https://www.linkedin.com/in/rturolopez/' target='_blank'>LinkedIn</a>, or <a href='https://www.arturocreates.com/' target='_blank'>email me</a>.
+If you have questions about my experience, or just want to connect, follow me on <a href='https://www.instagram.com/arturo_creates/'>Instagram</a>, <a href='https://www.linkedin.com/in/rturolopez/'>LinkedIn</a>, or <a href='https://www.arturocreates.com/'>email me</a>.
