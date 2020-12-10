@@ -1,3 +1,8 @@
+// gatsby-config.js
+require("dotenv").config({
+  path: `.env.${process.env.NODE_ENV}`,
+})
+
 module.exports = {
   siteMetadata: {
     title: `Arturo's Blog`,
@@ -13,6 +18,13 @@ module.exports = {
     },
   },
   plugins: [
+    `gatsby-plugin-material-ui`,
+    {
+      resolve: 'gatsby-plugin-mailchimp',
+      options: {
+          endpoint: process.env.MAILCHIMP_ENDPOINT, 
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
