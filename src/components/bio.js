@@ -7,7 +7,6 @@
 
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
-import Image from "gatsby-image"
 import selfie from '../../content/assets/profile-pic.jpg'
 
 const Bio = () => {
@@ -60,10 +59,10 @@ const Bio = () => {
           <a href='https://www.linkedin.com/in/rturolopez/'>
             LinkedIn
           </a>
-          <br></br>
+          {/* <br></br>
           <a href={`https://twitter.com/${social?.twitter || ``}`}>
           Twitter
-          </a> 
+          </a>  */}
         </p>
       )}
     </div>

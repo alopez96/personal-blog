@@ -48,6 +48,7 @@ render() {
             color="primary"
             label="Submit"
             type="submit"
+            id='btn'
           >
             <Typography variant="button">Subscribe</Typography>
           </Button>

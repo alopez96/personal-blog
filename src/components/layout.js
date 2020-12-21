@@ -1,5 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
+import MailChimpForm from './mailform'
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -25,6 +26,7 @@ const Layout = ({ location, title, children }) => {
       <header className="global-header">{header}</header>
       <main>{children}</main>
       <footer>
+        <MailChimpForm/>
         © {new Date().getFullYear()} 
         {` `}
         <a href="https://www.arturocreates.com">Arturo Creates</a>
