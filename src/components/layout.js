@@ -27,7 +27,7 @@ const Layout = ({ location, title, children }) => {
       <main>{children}</main>
       <footer>
         <MailChimpForm/>
-        © {new Date().getFullYear()} 
+        © 2020
         {` `}
         <a href="https://www.arturocreates.com">Arturo Creates</a>
       </footer>

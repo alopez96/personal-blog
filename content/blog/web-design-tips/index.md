@@ -31,7 +31,7 @@ Design is crucial because it can be the difference between a happy customer and 
 
 On every section of your page, you should have a <strong>Call To Action</strong> (CTA). This can be a button, a link, etc. The CTA is what you want the user to do with the information you have given them. Sometimes, you can get away with having more than one CTA’s per section, as long as you are sure that they are relevant to the content shown in that section but I usually recommend keeping it to one or two.
 
-Having a <strong>mobile design</strong> in today's day in age is pretty much non negotiable. I read somewhere that the nunmber of users browsing the internet on their phone is now around 50%. That means that if you don’t have a mobile design of your website, you could be missing out on 50% of your customers. Of course there are a number of things that you should account for when going mobile, but I'd say the one main thing is try to keep all the same info and content on mobile without crowding the screen.
+Having a <strong>mobile design</strong> in today's day in age is pretty much non negotiable. I read somewhere that the number of users browsing the internet on their phone is now around 50%. That means that if you don’t have a mobile design of your website, you could be missing out on 50% of your customers. Of course there are a number of things that you should account for when going mobile, but I'd say the one main thing is try to keep all the same info and content on mobile without crowding the screen.
 
 Make sure you have a <strong>Simple Navigation</strong> at the top of your page. Most tools like Wix and squarespace help you with this, but just make sure that the link titles are not ambiguous.
 
