@@ -8,6 +8,8 @@
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import selfie from '../../content/assets/profile-pic.jpg'
+import Icon from './Icon'
+import insta from './../../content/assets/icons/instagram.svg'
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
@@ -51,9 +53,7 @@ const Bio = () => {
           Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
           <br></br>
-          <a href={`https://instagram.com/${social?.instagram || ``}`}>
-            Instagram
-          </a>
+          <Icon icon={insta} link={`https://www.instagram.com/arturo_creates/`}/>
           <br></br>
           <a href='https://www.linkedin.com/in/rturolopez/'>
             LinkedIn
