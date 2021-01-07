@@ -344,3 +344,8 @@ a:focus {
 .red{
   color: red;
 }
+
+.footer-list{
+  display: flex;
+  flex-direction: row;
+}

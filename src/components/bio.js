@@ -10,6 +10,7 @@ import { useStaticQuery, graphql } from "gatsby"
 import selfie from '../../content/assets/profile-pic.jpg'
 import Icon from './Icon'
 import insta from './../../content/assets/icons/instagram.svg'
+import linked from '../../content/assets/icons/linked.svg'
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
@@ -53,11 +54,10 @@ const Bio = () => {
           Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
           <br></br>
-          <Icon icon={insta} link={`https://www.instagram.com/arturo_creates/`}/>
-          <br></br>
-          <a href='https://www.linkedin.com/in/rturolopez/'>
-            LinkedIn
-          </a>
+          <div className='footer-list'>
+            <Icon icon={insta} link={`https://www.instagram.com/arturo_creates/`}/>
+            <Icon icon={linked} link={`https://www.linkedin.com/in/rturolopez/`}/>
+          </div>
           {/*
           <a href={`https://twitter.com/${social?.twitter || ``}`}>
           Twitter
