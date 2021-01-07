@@ -48,4 +48,4 @@ Wherever possible apply these general design tips.
 
 There is more to design than this. But these are some quick tips that I wish I knew when I made my first website.
 
-Subscribe to get updates when there is a new post. Follow me on Social Media if you wish to stay connected.
+Subscribe to get updates when there is a new post. Follow me on Social Media to stay connected.
