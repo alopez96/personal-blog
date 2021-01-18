@@ -4,7 +4,7 @@ date: "2021-01-05T06:07:30.169Z"
 description: Are you a small business who wants to launch their own website? Maybe you're an individual who wants to create a website for your personal brand, but doesn’t know how to code.
 ---
 
-[![laptop at desk](../../assets/laptop-desk.jpg "")]()
+[![laptop at desk](../../assets/images/laptop-desk.jpg)]()
 
 ### Who This Article is For
 
@@ -27,7 +27,7 @@ Design is crucial because it can be the difference between a happy customer and 
 
 <strong>The Hero</strong> is the first thing that someone sees on your website. It must tell the user who you are, what you do, and how you can bring value to them. Value can come in many different forms. It can be a service, product, entertainment, information - pretty much anything that the user is willing to give their attention to. You also want to make sure that you answer these in a simple way. People do not want to feel lost in your website, so my advice is always keep it clean and simple. Usually, I recommend going with a large font header, small font subheader that tells more, and main button(s).
 
-[![](../../assets/hero.png "")]()
+[![](../../assets/images/hero.png)]()
 
 On every section of your page, you should have a <strong>Call To Action</strong> (CTA). This can be a button, a link, etc. The CTA is what you want the user to do with the information you have given them. Sometimes, you can get away with having more than one CTA’s per section, as long as you are sure that they are relevant to the content shown in that section but I usually recommend keeping it to one or two.
 
