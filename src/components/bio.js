@@ -11,6 +11,7 @@ import selfie from '../../content/assets/profile-pic.jpg'
 import Icon from './Icon'
 import insta from './../../content/assets/icons/instagram.svg'
 import linked from '../../content/assets/icons/linked.svg'
+import web from '../../content/assets/icons/web.svg'
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
@@ -57,6 +58,7 @@ const Bio = () => {
           <div className='footer-list'>
             <Icon icon={insta} link={`https://www.instagram.com/arturo_creates/`}/>
             <Icon icon={linked} link={`https://www.linkedin.com/in/rturolopez/`}/>
+            <Icon icon={web} link={`https://arturocreates.com/`}/>
           </div>
           {/*
           <a href={`https://twitter.com/${social?.twitter || ``}`}>

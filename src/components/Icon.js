@@ -3,7 +3,7 @@ import React from 'react';
 function Icon ({ icon, link, isMobile }) {
 
     const openLink = (url) => {
-        window.open(url , '_blank');
+        window.open(url);
     }
 
     return(
