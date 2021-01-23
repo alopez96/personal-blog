@@ -1,6 +1,6 @@
 ---
 title: Where to Get Started With Web Development
-date: "2021-01-19T06:07:30.169Z"
+date: "2021-01-22T06:07:30.169Z"
 description: It can be overwhelming to know where to get started with coding a website if its your first time. I'll be going over some fundamentals of web development and what you need to get started.
 ---
 
@@ -16,7 +16,7 @@ I will not go into coding an example or project. To get experience, it's best to
 
 
 ### My Advice on Development
-If you want to get into Software Develompent, start with learning the fundamentals of each language and what they are used for. Learn the basic syntax for the language, but don't get hung up on trying to master it. You can look that up as you go. It's more important to focus on the key concepts and fundamentals.
+If you want to get into Software Develompent, start with learning the fundamentals of the language. Learn the basic syntax for the language, but don't get hung up on trying to master it. You can look that up as you go. It's more important to focus on the key concepts and the functionalities of the language you are working with.
 Now, let's dive into it.
 
 ### HTML & CSS
@@ -40,7 +40,9 @@ If your ready to learn more about them, the links below can help break them down
 
 ### Final Comments
 
-Just to recap, you could use HTML and CSS to generate a static website. To add more functionality, you will need a programming language like JavaScript. With it, you could also connect your site to an API or Database.
+Just to recap, you could use HTML and CSS to generate a static website. To add more functionality, you will need a programming language like JavaScript. With it, you could do Full Stack Development (Frontend and Backend). You could also use it to connect your site to an API or Database.
 
-To get started, you can learn and practice for free on <a href='https://www.w3schools.com/'>W3 schools</a>, <a href='https://www.freecodecamp.org/'>Free Code Camp</a>, and <a href='https://www.khanacademy.org/computing/computer-programming/html-css'>Khan Academy</a>.
-For a paid option, I recommend <a href='https://zerotomastery.io/'>Zero To Mastery</a> by Andrei. He has really good programming courses that can take you from beginner to advanced.
+To get started, you can learn and practice for free on <a target='_blank' href='https://www.w3schools.com/'>W3 schools</a>, <a target='_blank' href='https://www.freecodecamp.org/'>Free Code Camp</a>, and <a target='_blank' href='https://www.khanacademy.org/computing/computer-programming/html-css'>Khan Academy</a>.
+For a paid option, I recommend <a target='_blank' href='https://zerotomastery.io/'>Zero To Mastery</a> by Andrei. He has really good programming courses that can take you from beginner to advanced.
+My friend my just started a new YouTube channel where he will cover coding and finances.
+Check it out <a target='_blank' href='https://www.youtube.com/channel/UC5YWp1TA91BjYsVO83wJZvg/about'>here</a>.
