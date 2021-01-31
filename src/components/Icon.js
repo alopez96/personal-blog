@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Icon ({ icon, link, isMobile }) {
+function Icon ({ icon, link }) {
 
     const openLink = (url) => {
         window.open(url);
