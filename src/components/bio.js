@@ -56,7 +56,7 @@ const Bio = () => {
           {` `}
           <br></br>
           <div className='footer-list'>
-            <Icon icon={insta} link={`https://www.instagram.com/arturo_creates/`}/>
+            <Icon icon={insta} link={`https://www.instagram.com/arturo.creates/`}/>
             <Icon icon={linked} link={`https://www.linkedin.com/in/rturolopez/`}/>
             <Icon icon={web} link={`https://arturocreates.com/`}/>
           </div>
